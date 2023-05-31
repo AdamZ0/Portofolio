@@ -9,13 +9,19 @@
 
 section {
   padding-top: 5rem;
+  margin-top: -70px;
+  /* minus margin top biar jaraknya engga jauh bngt sama container diatasnya */
 }
 
-/* .card {
-  background-color: black;
+.card {
+  background-color: #ded4c3;
 }
 
-.card h5 {
+.subjudul {
+  padding-top: 1rem;
+}
+
+/* .card h5 {
   color: white;
 }
 
